@@ -1,0 +1,59 @@
+/* General CSS Settings */
+body {
+    background-color: #D5E1EF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+/* Header Settings */
+
+/* Body Settings */
+
+.qr-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    background-color: white;
+    border-radius: 25px;
+    margin: 0;
+    width: 35%;
+}
+
+.qr-image {
+    display: flex;
+    justify-content: center;
+    height: auto;
+    text-align: center;
+    margin: 0px 25px;
+}
+
+.qr-img {
+    width: 350px;
+    height: auto;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+.qr-text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 65%;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 30px;
+}
+
+.qr-text p {
+    color: darkgray;
+}
+
+/* Footer Settings */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
