@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/splwdev/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://splwdev.github.io/QR-Code-Component)
+- Solution URL: [My Github Repo](https://github.com/splwdev/QR-Code-Component)
+- Live Site URL: [Published Github Pages Version](https://splwdev.github.io/QR-Code-Component)
 
 ## My process
 
@@ -45,4 +45,4 @@ Only on the first day of my 2nd week of a baseline course on web development, bu
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/splwdev)
+- Frontend Mentor - [@splwdev](https://www.frontendmentor.io/profile/splwdev)
