@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 /* General CSS Settings */
 body {
     background-color: hsl(212, 45%, 89%);
@@ -6,6 +8,8 @@ body {
     align-items: center;
     padding: 30px;
     height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
 }
 
 /* Header Settings */
@@ -16,11 +20,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 700px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 25px;
-    margin: 0;
-    max-width: 450px;
+    max-width: 250px;
 }
 
 .qr-image {
@@ -28,28 +30,28 @@ body {
     justify-content: center;
     height: auto;
     text-align: center;
-    margin: 0px 25px;
+    padding: 15px;
 }
 
 .qr-img {
-    max-width: 400px;
-    height: auto;
+    width: 100%;
     border-radius: 25px;
-    margin-top: 30px;
 }
 
 .qr-text {
     display: flex;
     flex-wrap: wrap;
-    width: 65%;
+    width: 75%;
     text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0 30px;
+    padding-bottom: 25px;
+}
+
+.qr-text h1 {
+    font-size: 20px;
 }
 
 .qr-text p {
     color: hsl(220, 15%, 55%);
-    font-size: 15px;
 }
 
 /* Footer Settings */
